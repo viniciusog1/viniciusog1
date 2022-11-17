@@ -1,5 +1,5 @@
 [![MasterHead](https://www.grupooffice.com.br/gallery_gen/6aeca5424ed96a96fb9b5ce60687e2e7_anim.gif)](https://github.com/vncs31/)
-<h1 align="center">Hi 👋, I'm Vinícius</h1>
+<h1 align="center">Hi 👋🏼, I'm Vinícius</h1>
 <h3 align="center">A passionate data scientist from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
