@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Video Game Analysis](https://github.com/vncs31/analise-de-dados-videogames)
 
-- 🌱 I’m currently learning **Docker, AWS**
+- 🌱 I’m currently learning **Machine Learning, AWS**
 
 - 👨‍💻 All of my projects are available at [github.com/vncs31](github.com/vncs31)
 
