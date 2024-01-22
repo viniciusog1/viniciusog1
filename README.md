@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **viniciusog1010@gmail.com**
 
-- 📄 Know about my experiences on [resume](Resume_Vinicius.pdf)
+- 📄 Know about my experiences on [resume](GitHub_Resume_Vinicius.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
