@@ -1,30 +1,34 @@
-[![MasterHead](https://www.grupooffice.com.br/gallery_gen/6aeca5424ed96a96fb9b5ce60687e2e7_anim.gif)](https://github.com/vncs31/)
-<h1 align="center">Hi 👋🏼, I'm Vinícius</h1>
-<h3 align="center">A passionate data scientist from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciusog1/viniciusog1/main/assets/hero-small-dark.svg">
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/viniciusog1/viniciusog1/main/assets/hero-small-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciusog1/viniciusog1/main/assets/hero-dark.svg">
+  <img src="https://raw.githubusercontent.com/viniciusog1/viniciusog1/main/assets/hero-light.svg" width="100%" alt="Vinícius Oliveira, from data to DevOps. Animated pipeline: lint, types, test, build, deploy, observe.">
+</picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vncs31&label=Profile%20views&color=0e75b6&style=flat" alt="vncs31" /> </p>
+<br>
 
-- 🔭 I’m currently working on [Video Game Analysis](https://github.com/vncs31/analise-de-dados-videogames)
+I work with Python, SQL and data, and I'm moving into **DevOps**. I started in IT support, setting up Linux and Windows machines, networks and backups. Today my projects cover the path from commit to dashboard: tested in CI, packaged in Docker and monitored with Prometheus and Grafana.
 
-- 🌱 I’m currently learning **Machine Learning, AWS**
+[LinkedIn](https://www.linkedin.com/in/viniciusog1/) &nbsp;·&nbsp; [Email](mailto:viniciusog1010@gmail.com) &nbsp;·&nbsp; Brasília, Brazil
 
-- 👨‍💻 All of my projects are available at [github.com/vncs31](github.com/vncs31)
+## Projects
 
-- 💬 Ask me about **Python, SQL, NoSQL**
-
-- 📫 How to reach me **viniciusog1010@gmail.com**
-
-- 📄 Know about my experiences on [resume](GitHub_Resume_Vinicius.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vncs31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vncs31" height="30" width="40" /></a>
+<p>
+<a href="https://github.com/viniciusog1/insightpipe"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciusog1/viniciusog1/main/assets/insightpipe-dark.svg"><img src="https://raw.githubusercontent.com/viniciusog1/viniciusog1/main/assets/insightpipe-light.svg" width="414" alt="InsightPipe: MLOps pipeline for Brazil's power grid. Ingestion, training, serving, drift checks. Retraining with a promotion gate."></picture></a>
+<a href="https://github.com/viniciusog1/stockguardian"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciusog1/viniciusog1/main/assets/stockguardian-dark.svg"><img src="https://raw.githubusercontent.com/viniciusog1/viniciusog1/main/assets/stockguardian-light.svg" width="414" alt="StockGuardian: Inventory platform built for operations. Kubernetes manifests with Kustomize. Prometheus metrics, OpenTelemetry traces."></picture></a>
+<a href="https://github.com/viniciusog1/vox"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciusog1/viniciusog1/main/assets/vox-dark.svg"><img src="https://raw.githubusercontent.com/viniciusog1/viniciusog1/main/assets/vox-light.svg" width="414" alt="Vox: Self-hosted voice, video and chat. Peer-to-peer WebRTC on Electron. Cloudflare tunnel for remote access."></picture></a>
+<a href="https://github.com/viniciusog1/pokemon_api"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viniciusog1/viniciusog1/main/assets/pokemon_api-dark.svg"><img src="https://raw.githubusercontent.com/viniciusog1/viniciusog1/main/assets/pokemon_api-light.svg" width="414" alt="Pokémon ETL: From API to dashboard. Extract and clean with requests and pandas. Published as a Streamlit app."></picture></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+## Toolbox
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vncs31&show_icons=true&layout=compact" alt="vncs31" /></p>
+| Area | Tools |
+| --- | --- |
+| **CI and containers** | GitHub Actions, Docker, Docker Compose, Kubernetes manifests with Kustomize |
+| **Observability** | Prometheus, Grafana, OpenTelemetry, Jaeger |
+| **Backend** | Python, FastAPI, SQLAlchemy, Alembic, Redis, ARQ |
+| **Data and ML** | SQL, PostgreSQL, pandas, scikit-learn, Power BI |
+| **Quality** | pytest, ruff, mypy strict |
+| **Learning next** | AWS, Terraform, continuous delivery |
 
-<p>&nbsp;<img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=vncs31&show_icons=true&locale=en" alt="vncs31" /></p>
+<sub>This profile has its own pipeline: [GitHub Actions](https://github.com/viniciusog1/viniciusog1/actions/workflows/profile.yml) tests and rebuilds it every day. [See the code](scripts/build.py).</sub>

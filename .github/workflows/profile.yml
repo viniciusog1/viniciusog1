@@ -1,0 +1,41 @@
+name: Profile
+
+on:
+  push:
+    branches: [main]
+    paths: ["scripts/**", "tests/**", "README.md", ".github/workflows/profile.yml"]
+  schedule:
+    - cron: "17 9 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - name: Test
+        run: python -m unittest discover -s tests -v
+      - name: Build
+        run: python scripts/build.py
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+      - name: Publish if changed
+        run: |
+          git add assets
+          if git diff --cached --quiet; then
+            echo "Nothing changed"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh profile"
+          git push
